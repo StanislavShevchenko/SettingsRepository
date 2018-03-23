@@ -1,0 +1,83 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-11-08T17:56:13</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.2.1.0.0</property>
+    <property name="modified">2018-03-19T11:25:32</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_COLOR" value="f8fff9" />
+    <option name="CARET_ROW_COLOR" value="102541" />
+    <option name="GUTTER_BACKGROUND" value="d1122" />
+    <option name="INDENT_GUIDE" value="112434" />
+    <option name="INFORMATION_HINT" value="" />
+    <option name="NOTIFICATION_BACKGROUND" value="262a2c" />
+    <option name="RIGHT_MARGIN_COLOR" value="" />
+    <option name="SELECTED_INDENT_GUIDE" value="" />
+    <option name="SEPARATOR_BELOW_COLOR" value="" />
+    <option name="TEARLINE_COLOR" value="3c3f41" />
+    <option name="VISUAL_INDENT_GUIDE" value="103741" />
+    <option name="WHITESPACES" value="102541" />
+  </colors>
+  <attributes>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="102541" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value />
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value />
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value />
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value />
+    </option>
+    <option name="HTML_CODE">
+      <value>
+        <option name="FOREGROUND" value="aeb5bd" />
+        <option name="BACKGROUND" value="202525" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="JS.DOC_MARKUP">
+      <value>
+        <option name="FOREGROUND" value="666666" />
+      </value>
+    </option>
+    <option name="JS.STRING">
+      <value>
+        <option name="FOREGROUND" value="5c805a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value />
+    </option>
+    <option name="PHP_STRING">
+      <value>
+        <option name="FOREGROUND" value="5d805c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="aeb5bd" />
+        <option name="BACKGROUND" value="30b1f" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="222c41" />
+        <option name="ERROR_STRIPE_COLOR" value="806a00" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

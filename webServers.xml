@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d989af0d-650f-4097-bc48-6c8b8e3f3a5e" name="xloo.lc" url="http://stage.lc">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

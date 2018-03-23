@@ -1,0 +1,55 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-11-20T08:58:00</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.2.1.0.0</property>
+    <property name="modified">2018-03-19T11:00:09</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_COLOR" value="" />
+    <option name="FILESTATUS_COPIED" value="c3e88d" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="GUTTER_BACKGROUND" value="102541" />
+    <option name="LINE_NUMBERS_COLOR" value="53585a" />
+    <option name="NOTIFICATION_BACKGROUND" value="" />
+    <option name="READONLY_BACKGROUND" value="" />
+    <option name="SELECTION_BACKGROUND" value="" />
+  </colors>
+  <attributes>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="BACKGROUND" value="111424" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="BACKGROUND" value="262a2c" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="BACKGROUND" value="262a2c" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value>
+        <option name="BACKGROUND" value="262a2c" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="30664c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_CONCATENATION">
+      <value>
+        <option name="FOREGROUND" value="64696b" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
