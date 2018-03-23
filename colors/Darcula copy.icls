@@ -3,7 +3,7 @@
     <property name="created">2017-11-08T17:56:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2018-03-19T11:25:32</property>
+    <property name="modified">2018-03-23T14:22:28</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -15,6 +15,7 @@
     <option name="NOTIFICATION_BACKGROUND" value="262a2c" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
+    <option name="SELECTED_TEARLINE_COLOR" value="78763a" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="TEARLINE_COLOR" value="3c3f41" />
     <option name="VISUAL_INDENT_GUIDE" value="103741" />
@@ -37,6 +38,12 @@
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value />
+    </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ede8ec" />
+        <option name="BACKGROUND" value="33782e" />
+      </value>
     </option>
     <option name="HTML_CODE">
       <value>
